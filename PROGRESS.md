@@ -50,8 +50,8 @@ AI: 해당 주제 3문제 이상 맞추면 [x] 체크
 ## STEP 1. JavaScript 핵심 동작 원리
 
 ### 실행 컨텍스트와 스코프
-- [ ] 호이스팅 (var, let, const, function)
-- [ ] TDZ (Temporal Dead Zone)
+- [x] 호이스팅 (var, let, const, function)
+- [x] TDZ (Temporal Dead Zone)
 - [ ] 스코프 체인
 - [ ] 렉시컬 스코프
 
