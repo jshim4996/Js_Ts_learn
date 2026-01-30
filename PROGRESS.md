@@ -122,6 +122,13 @@ AI: 해당 주제 3문제 이상 맞추면 [x] 체크
 - [ ] 공변성과 반공변성
 - [ ] 타입 vs 인터페이스 차이
 
+### TypeScript 5.x 신기능
+- [ ] satisfies 연산자 (TS 4.9+)
+- [ ] const 타입 파라미터 (TS 5.0+)
+- [ ] NoInfer 유틸리티 타입 (TS 5.4+)
+- [ ] Inferred Type Predicates (TS 5.5+)
+- [ ] isolatedDeclarations (TS 5.5+)
+
 ---
 
 ## STEP 3. React 동작 원리
@@ -149,6 +156,15 @@ AI: 해당 주제 3문제 이상 맞추면 [x] 체크
 - [ ] 불필요한 리렌더링 찾기
 - [ ] 코드 스플리팅 (lazy, Suspense)
 
+### React 19 신기능
+- [ ] use API (Promise, Context 읽기)
+- [ ] useActionState (폼 액션 상태 관리)
+- [ ] useFormStatus (폼 제출 상태)
+- [ ] useOptimistic (낙관적 업데이트)
+- [ ] useEffectEvent (React 19.2+)
+- [ ] Server Components 개념
+- [ ] React Compiler (자동 메모이제이션)
+
 ---
 
 ## STEP 4. Node.js 동작 원리
@@ -172,6 +188,15 @@ AI: 해당 주제 3문제 이상 맞추면 [x] 체크
 - [ ] 동기 vs 비동기 에러 처리
 - [ ] uncaughtException vs unhandledRejection
 - [ ] 에러 처리 패턴
+
+### Node.js 최신 기능 (v18-22)
+- [ ] 네이티브 fetch API (Node 18+)
+- [ ] 네이티브 test runner (Node 18+)
+- [ ] Watch 모드 (--watch)
+- [ ] require() ESM 지원 (Node 22+)
+- [ ] 내장 WebSocket 클라이언트 (Node 22+)
+- [ ] glob/globSync 함수 (Node 22+)
+- [ ] 네이티브 TypeScript 지원 (실험적)
 
 ---
 
